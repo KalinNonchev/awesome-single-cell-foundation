@@ -137,6 +137,6 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 - A Deep Dive into Single-Cell RNA Sequencing Foundation Models
 [paper](https://www.biorxiv.org/content/10.1101/2023.10.19.563100v1.full.pdf), [code](https://github.com/clinicalml/sc-foundation-eval)
 
-- Evaluating the Utilities of Large Language Models in Single-cell Data Analysis [paper](https://www.biorxiv.org/content/10.1101/2023.09.08.555192v1.full), [code](https://github.com/HelloWorldLTY/scEval)
+- Foundation Models Meet Imbalanced Single-Cell Data When Learning Cell Type Annotations [paper](https://www.biorxiv.org/content/10.1101/2023.10.24.563625v1.full.pdf), [code](https://github.com/SabbaghCodes/ImbalancedLearningForSingleCellFoundationModels)
 
 
