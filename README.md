@@ -39,6 +39,8 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 
 ## Spatially-resolved Transcriptomic (SRT)
 
+- **DeepSpot-M**: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology [paper](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1), [code](https://github.com/ratschlab/DeepSpotM)
+
 - **CellPLM**: Pre-training of Cell Language Model Beyond Single Cells [paper](https://www.biorxiv.org/content/10.1101/2023.10.03.560734v1.full.pdf), [code](https://github.com/OmicsML/CellPLM)
 
 
