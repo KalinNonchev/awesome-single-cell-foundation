@@ -41,6 +41,12 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 
 - **DeepSpot-M**: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology [paper](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1), [code](https://github.com/ratschlab/DeepSpotM)
 
+- **DeepSpot-M (KPMP kidney)**: Virtual spatial transcriptomics links kidney histopathology to disease-associated molecular programs [paper](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1), [code](https://github.com/ratschlab/projects2026-kidney-kpmp-analysis)
+
+- **KPMP virtual spatial transcriptomics atlas**: DeepSpot-M predicted spatial gene expression (19,338 genes) for 1,534 H&E kidney biopsy slides from 476 KPMP participants [dataset](https://huggingface.co/datasets/ratschlab/KPMP_virtual_spatial_transcriptomics_atlas), [paper](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)
+
+- **KPMP Xenium virtual spatial transcriptomics**: DeepSpot-M predicted spatial gene expression (19,338 genes) for ~1.64M cells in 49 H&E sections of KPMP Xenium kidney biopsies [dataset](https://huggingface.co/datasets/ratschlab/KPMP_Xenium_virtual_spatial_transcriptomics), [paper](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)
+
 - **CellPLM**: Pre-training of Cell Language Model Beyond Single Cells [paper](https://www.biorxiv.org/content/10.1101/2023.10.03.560734v1.full.pdf), [code](https://github.com/OmicsML/CellPLM)
 
 
